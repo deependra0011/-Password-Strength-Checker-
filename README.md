@@ -10,7 +10,8 @@ character variety, and complexity. It helps users create secure passwords
 by analyzing uppercase letters, lowercase letters, numbers, and special characters.
 
 ## Team Members
-- Deependra Singh Chouhan (Roll No: <23CA2591011>)
+- Deependra Singh Chouhan - 23CA2591011
+- Harshvardhan Singh Shekhawat - 23CA2591016
 
 ## Deployment/Execution Instructions
 ```bash
